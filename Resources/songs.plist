@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGMove</key>
+	<string>YES</string>
+	<key>NumSongs</key>
+	<integer>2</integer>
+	<key>1</key>
+	<dict>
+		<key>Name</key>
+		<string>森林里的熊先生</string>
+		<key>File</key>
+		<string>Bear.tja</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>Name</key>
+		<string>Dora</string>
+		<key>File</key>
+		<string>Dora.tja</string>
+	</dict>
+</dict>
+</plist>
